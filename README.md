@@ -1,2 +1,2 @@
-# -rust-based-os-comp2022
+# rust-based-os-comp2022
 daily-note
